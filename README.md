@@ -1,6 +1,6 @@
 # My Very First Web Page 
 
-welcome!
+Welcome!
 
 My website lists some of the technologies used in software development. 
 
